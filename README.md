@@ -1,6 +1,7 @@
 # 🧑🏻‍💻 Cauã Ventura
-
+<p>
 **` Desenvolvedor FullStack`**
+
 Meu nome é Cauã Ventura, tenho 21 anos e sou de Niterói – RJ, atualmente no Rio de Janeiro.
 Sou estudante de Engenharia de Software e entusiasta de desenvolvimento Back-End.
 Gosto de entender como os sistemas funcionam por trás das aplicações.
@@ -104,10 +105,12 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CauaVenturaDev&show_icons=true&theme=tokyonight&include_all_commits=true)
-
+<img
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src = "https://github-readme-stats.vercel.app/api?username=CauaVenturaDev&show_icons=true&theme=tokyonight&include_all_commits=true"
+/>
 <img 
       align="left" 
       alt="GitHub Stats" 
