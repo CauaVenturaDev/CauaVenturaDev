@@ -31,6 +31,14 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
 />
 <img 
     align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+<img 
+    align="left" 
     alt="AzureSQLDataBase" 
     title="AzureSQLDataBase"
     width="30px" 
@@ -77,14 +85,7 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Node.js" 
