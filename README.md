@@ -1,5 +1,5 @@
 # 🧑🏻‍💻 Cauã Ventura
-<p>
+
 **` Desenvolvedor FullStack`**
 
 Meu nome é Cauã Ventura, tenho 21 anos e sou de Niterói – RJ, atualmente no Rio de Janeiro.
