@@ -46,14 +46,6 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
 />
 <img 
     align="left" 
-    alt="SQLite" 
-    title="SQLite"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -119,12 +111,12 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CauaVenturaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaVenturaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
