@@ -103,17 +103,3 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-<img
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src = "https://github-readme-stats.vercel.app/api?username=CauaVenturaDev&show_icons=true&theme=tokyonight&include_all_commits=true"
-/>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaVenturaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
