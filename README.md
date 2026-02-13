@@ -1,13 +1,13 @@
 # 🧑🏻‍💻 Cauã Ventura
 
-**` Desenvolvedor FullStack`**
+**`Desenvolvedor .NET Full Stack`**
 
-Meu nome é Cauã Ventura, tenho 21 anos e sou de Niterói – RJ, atualmente no Rio de Janeiro.
-Sou estudante de Engenharia de Software e entusiasta de desenvolvimento Back-End.
-Gosto de entender como os sistemas funcionam por trás das aplicações.
+Meu nome é Cauã Ventura, tenho 21 anos, nasci em Niterói – RJ, atualmente moro no interior do Rio de Janeiro. <br>
+Sou estudante de Engenharia de Software com atuação em desenvolvimento Full Stack e foco em Back-End. <br>
+Gosto de entender como os sistemas funcionam por trás das aplicações. <br>
 Estou sempre aprendendo e transformando conhecimento em projetos práticos.
 
-Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
+Linkedin: [CauãVenturaDev](www.linkedin.com/in/cauã-ventura-835657257)
 
 --- 
 
@@ -45,14 +45,8 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+<br>
+
 <img 
     align="left" 
     alt="HTML"
@@ -79,23 +73,6 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -103,4 +80,23 @@ Linkedin: [Cauã Ventura](www.linkedin.com/in/cauã-ventura-835657257)
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
-<br/>
+
+---
+### 🧠 O que eu faço
+<ul>
+<li>Desenvolvimento Back-End com C# e .NET
+
+<li>Criação de APIs REST integradas a bancos de dados
+
+<li>Desenvolvo interfaces com Angular, HTML, CSS e JavaScript
+
+<li>Utilizo Git para versionamento e colaboração
+
+<li>Estudo de microsserviços e computação em nuvem
+</ul>
+
+---
+### 🚀 Filosofia
+
+>_“Código não é apenas sobre resolver problemas.
+>É sobre construir soluções que escalam, duram e geram valor real.”_
