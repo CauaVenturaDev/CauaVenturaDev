@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Cauã Ventura
 
-**`Desenvolvedor .NET Full Stack`**
+## **`Desenvolvedor .NET Full Stack`**
 
 Meu nome é Cauã Ventura, tenho 21 anos, nasci em Niterói – RJ, atualmente moro no interior do Rio de Janeiro. <br>
 Sou estudante de Engenharia de Software com atuação em desenvolvimento Full Stack e foco em Back-End. <br>
