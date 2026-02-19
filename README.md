@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software com atuação em desenvolvimento Full St
 Gosto de entender como os sistemas funcionam por trás das aplicações. <br>
 Estou sempre aprendendo e transformando conhecimento em projetos práticos.
 
-Linkedin: [CauãVenturaDev]([www.linkedin.com/in/cauã-ventura-835657257).
+Linkedin: [www.linkedin.com/in/cauã-ventura-835657257].
 
 --- 
 
